@@ -13,11 +13,10 @@ This document is copyright 2021 Unchain Life Ltd.
   - [NVM](#nvm)
 - [Node Project](#node-project)
   - [Lerna](#lerna)
-  - [Node Tools](#node-tools)
-    - [NextJS](#nextjs)
-    - [React Components](#react-components)
-      - [Atomic UI Design](#atomic-ui-design)
-      - [NPM Package Components](#npm-package-components)
+  - [NextJS](#nextjs)
+  - [React Components](#react-components)
+    - [Atomic UI Design](#atomic-ui-design)
+    - [NPM Package Components](#npm-package-components)
 
 # Configuring Windows
 
@@ -100,18 +99,16 @@ The "Node Version Manager" allows you to run multiple versions of node on the sa
 
 Lerna is a handy tool that allows you to manage multiple node projects from within a single handy directory.
 
-## Node Tools
-
-### NextJS
+## NextJS
 
 See https://nextjs.org/
 
-### React Components
+## React Components
 
-#### Atomic UI Design
+### Atomic UI Design
 
 See https://atomicdesign.bradfrost.com/chapter-2/
 
-#### NPM Package Components
+### NPM Package Components
 
 Hosting components inside a separate NPM package can be very complicated, and should only be attempted once you are familiar with the inner workings of React and Node.
