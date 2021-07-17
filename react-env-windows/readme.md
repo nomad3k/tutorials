@@ -89,9 +89,9 @@ You should install git from the command line, as this can be used to update code
 The "Node Version Manager" allows you to run multiple versions of node on the same computer.  This is important, as you will end up supporting many products over time.  Requiring all versions of your code to run on the same version of node will cause you a lot of upgrade pain, leaving you in an all-or-nothing situation.  Using NVM you can upgrade products individually, as needed.  Also, you will have no control over third party products you use.
 
 1. Install instructions: https://github.com/nvm-sh/nvm#installing-and-updating
-2. Installing Node Stable version: `nvm install stable`
-3. Restart Terminal
-4. Check noed is installed: `node -v`
+1. Restart Terminal
+1. Installing Node Stable version: `nvm install stable`
+1. Check noed is installed: `node -v`
 
 # Node Project
 
